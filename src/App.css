@@ -1,0 +1,31 @@
+
+
+
+
+
+.container{
+ display: flex;
+ flex-wrap: wrap;
+ gap: 10%;
+}
+.contents{
+margin: 10px;
+border: 2px solid black;
+width: 300px;
+text-align: center;
+background-color: lightcyan;
+padding: 10px;
+border-radius: 10px;
+font-family:'Playfair Display', serif;
+}
+.newsimg{
+    height: 200px;
+    width: 300px;
+    
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
